@@ -1,0 +1,81 @@
+﻿MS Flight Simulator LVFR Aircraft Carriers Global: Locations & Airport Codes
+
+
+To find the Carriers, in the World View, search for the “Airport Code” below.
+
+
+Name
+	Country
+	Pennant / Hull Number
+	Airport Code
+	Location
+	
+
+	USS Theodore Roosevelt
+	USA
+	CVN-71
+	CV71
+	South of Oahu Island, Hawaii
+	
+
+	USS Abraham Lincoln
+	USA
+	CVN-72
+	CV72
+	South of Los Angeles, California
+	
+
+	USS George Washington
+	USA
+	CVN-73
+	CV73
+	South of New York, New York
+	
+
+	USS John C. Stennis
+	USA
+	CVN-74
+	CV74
+	West of San Francisco, California
+	
+
+	USS Harry S Truman
+	USA
+	CVN-75
+	CV75
+	Near Gibraltar, Med. Sea
+	
+
+	USS Ronald Reagan
+	USA
+	CVN-76
+	CV76
+	South of Tokyo, Japan
+	
+
+	USS George HW Bush
+	USA
+	CVN-77
+	CV77
+	Near Norfolk, Virginia
+	
+
+	HMS Queen Elizabeth
+	GB
+	R08
+	R08
+	Near Portsmouth, UK
+	
+
+	HMS Prince of Wales
+	GB
+	R09
+	R09
+	Near Plymouth, UK
+	
+
+	Charles de Gaul
+	FRA
+	R91
+	R91
+	Near Toulon, France
